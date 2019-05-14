@@ -1,0 +1,30 @@
+{
+    "name": "viz-min",
+    "version": "0.0.1",
+    "description": "Reproduction of a shadow-cljs error",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dept24c/viz-min.git"
+    },
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "Apache-2.0",
+    "licenses": [
+        {
+            "type": "Apache-2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "dependencies": {
+        "shadow-cljs": "2.8.36",
+        "viz.js": "2.1.2"
+    },
+    "devDependencies": {}
+}
