@@ -6,7 +6,7 @@ A minimal reproduction of a shadow-cljs "INTERNAL COMPILER ERROR"
 1. Clone this repository onto your machine
 1. Open a shell in the top-level directory of this repository
 1. Run `npm i`
-1. Run `shadow-cljs build app`
+1. Run `shadow-cljs compile app`
 1. Observe build failure
 
 # License
